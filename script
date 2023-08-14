@@ -1,0 +1,397 @@
+_G.packKey = "Q"
+_G.afkKey = "E"
+_G.packIndex = "."
+_G.packEnabled = true
+_G.interval = 3
+
+_G.packs = {
+["ez"] = {
+"shut up you used to kidnap little kids in bouncy houses boa",
+"shut up that's why you eat alphabet soup to remember your sentences boa",
+"shut up you just mad bc yo direct tv cablebox isn't directly connected to yo tv boa",
+"shut up you use medieval swords to cut steak at fancy resturaunts boa",
+"shut up the only reason you dig in yo nose is because you actually believe that gold is in there boa",
+"shut up that's why i caught you notti bopping to a kidzbop instrumental beat",
+"your grandmother is known for the person that made dr phil cry boa",
+"shut up that's why you heat up yo food with your mothers car engine boa",
+"you take showers with the water that falls off of houses after it stops raining boa you nasty",
+"that's why you heat up yo food with your mother's 4-cylinder car engine boa",
+"shut up you overdovsed from adrenaline rushes boa back up",
+"you bout fat as hell your earlobes go down to your knee caps",
+"you play professional freeze tag with the roaches in your living room boa",
+"you got tap dancing crickets on your shoulders boa you musty",
+"shut up you keep lucky charms in your pocket for good luck",
+"shut up you play competitve hopscotch with your deceased grandmother boa",
+"sthu you was in a mexican standoff with a cockroach wearing a sombrero boa",
+"shut up your moms eyelids look like fortune cookies",
+"you got scissor kicked by special education kids in a wheel chair boa shut up",
+"you catch grasshoppers with your teeth boa you ugly",
+"your mom got back flipping iguanas drinking apple juice in her living room boa you nasty",
+"your clothes built like they str8 outta pandabuy & taobao boa you broke ash",
+"you look like a homeless wasp that can speak russian",
+"you fell off a gokart and started barrel rolling to decrease your fall damage boa you ugly",
+"hell naw you got sevuallvy harrassed by a math workbook boa",
+"sthu i saw u throvwing it back for mr krabs boa",
+"yo grandma is yo hypeman in the mcdonalds line boa you ugly ash",
+"when people fight you, they put ankle weights on for a challenge boa",
+"thats why your grandma wasted 3 hours trying to communicate with chewbacca boa",
+"shut up that's why you are the best packer on Beyond Scared Straight boa",
+"sthu that's why you floss your teeth with zipline cables",
+"yo grandma sent you a DM 3 hours ago, and it was a grabify link boa cmonabrah",
+"what boy, you built like an entire CD Bluray disk boy you nasty as hell",
+"that's why you look like an Apache helicopter with auvtisvm boa",
+"that's why your grandmother built like a crivp-walking stop sign boa",
+"your grandfather headbutts stop signs whenever he has panic attacks boa shut up",
+"you built like an indian version of tg flocka boa you nasty",
+"shut up you look like a cambodian version of dthang boa",
+"shut up your meatflabs built like concrete slabs boa",
+"shut up you look like you indoctrinate parrots so you can make them say the n word in public boa you ugly",
+"shut up the top of your nose built like a worn out model o mouse boa",
+"tell me why your pupils built like the wide-angle camera from an iphone boa",
+"tell me why your nose built like a double barrel shotgun boa",
+"boa the top of your head built like a ti-84 calculator screen",
+"boa your forehead look like it tells the time in 8k resolution boa",
+"that's why you built like a compressed water bottle boa shut up",
+"that's why you built like a Mexican pinata with earlobe grease boa",
+"what boy, that's why you look like you run trojans for fun boy you nasty as hell",
+"what boy, that's why you look like a Chinese beluga whale from the 70s boa",
+"shut up that's why your mom got a boosie fade on the top of her pmussy hair boa",
+"what boy, whenever you walk in doorways, you go through both sides you weirdo",
+"that's why whenever you take notes, you take notes with a book & quill from Minecraft boa",
+"what boy, that's why you look like you got 2 plugs in your head like NBA Youngboy boy",
+"i caught you baptizing a squirrel with a du-rag on boa",
+"shut up i caught you trying to teach Jiu-Jitsu to a jellybean in East Atlanta boa",
+"shut up you are a competitive ferret legger, you be hosting rodent races in your garage for 15 cents boa",
+"shut up you munch on icecubes to relax your dopamine receptors boa",
+"shut up you look like a age-regressed version of young dolvph boa",
+"shut up you look like you consult wikipedia for therapy boa",
+"boa i caught you tryna have a deep intellectual conversation with chatgpt boa you ugly",
+"boa i caught you tryna onlinedvatve chatgpt with a preloaded nya-nya egirvl prompt boa",
+"shut up you got banned from the lgbtq hangout bc you said the colors of the rainbow backwards boa",
+"shut up your grandfather scares scientologists by telling them to turn around in a menacing manner boa",
+"shut up you look like you equip roblox speed coils irl whenever you get into physical confrontations boa",
+"shut up you look like you equipped a gravity coil in yo nerf blaster for better range boa you nasty",
+"shut up you look like you laugh at sandy hoovk promise psa videos boa",
+"boa tell me why your footsteps sound like 808 dubstep beats boa",
+"boa tell me why your nose built like the fl studio logo",
+"shut up you look like you slam your keyboard at your parents whenever you don't get rovbux boa",
+"shut up you look like you lick the crumbs off the underside of ur keyboard boa",
+"shut up you look like a bootleg blue yeti stand doused in wd-40 boa",
+"that's why you built like a jester for the king, dated in the 1800s boa",
+"sthu i caught you in a lucid dream trying to rizz the lemonade machine boa",
+"what boy, that's why I caught you in a sleevpcall with the pink among us character boa",
+"whenever you go to sleep and snore, you make angry birds sounds boa you nasty",
+"that's why you sound like the narrator that did the fitness gram pacer test boa",
+"you farted in your school classroom and DJ Akdemivks made a video about it boa",
+"huh what boa the top of your head built like an iphone notch boa",
+"shut up that's why you perform break dances at funerals for a dramatic entrance boa",
+"shut up you use a jumpshot when you start bowling bowling boa",
+"shut up yo grandma did the devils tango with a motorbike engine in the bronx boa",
+"tell me why you built like a korean beluga whale doing the duggy boa shut up",
+"hushmode boa why you silent? you look like a Chinese beluga whale from the 70s boa quit playin"
+},
+["med"] = {
+"boa that's why flightreacts put a instant replay in his video because you got yo ankles broken on offense boa you ugly as hell",
+"you teach canadian stick bugs to play block ops 2 to help you complete the easter egg in nuke town boa",
+"you farted on bill nye the science guy and he made a video of undiscovered gas by it you dirty as hell boa",
+"boa you wasted 3 hours of your life trying to convince the bubble guppies that you attend their school",
+"what boy, I caught you trying to record an amateur film with a leap frog camera bruh you ugly as hell",
+"yo grandma got backhanded by a angry mall cop over a bottle of listerine and mechanical parts from fortnite",
+"you are the most dangerous fighter in the world boy. you can't even exhale without knocking someoue out with your nostril hairs boa",
+"what boy, that's why you need Dragon Balls to revive yourself everytime you do situps you fat bwiotch",
+"you're garbage as hell lol everytime you get struck by lightning, you turn into the flash boa",
+"that's why your left tooth built like the ROBLOX Studio logo, that shmt got a crack in the midddle of it boa",
+"shut up boy you nasty as hell, thats why your hair follicules look like toilet paper scraps boy you nasty as hell",
+"whenever you get sunburns, you grabbed some whipped cream to treat your burns bruh you nasty as hell",
+"that's why yo Acer Aspire 5 Slim Laptop shuts down whenever you get the hic-ups boa you ugly as hell quit talking to me lol",
+"shut up that's why whenever you lose a match of brawlhalla you sneeze in one of yo amazon basics kids storage organizer bins bo",
+"that's why you got RGB leds in yo fishers price Microwave for a cooking performance boost boa",
+"shut up boa i caught you sucking a tape worm out of your moms orifices while creating nerf super soaker sound profiles boa you nasty as hell",
+"boa yo belly look like a stingray that got a severely infectious lip injection combined with lung tumors boa",
+"shut up you look like you be spam clicking the like button when a roblox exploiting tutorial video actually works boa what is you saying",
+"boa you are a devious DOA member. you hack ppl's air conditioning units to make them freeze to death when they sleep boa",
+"yup and that's why you can't play sports no more because you got bit by a venus fly trap with 300 confirmed insect bodies boa",
+"huh? the first time you rode a skateboard you started twisting yo spine back and forth thinking you was accelerating boa",
+"that's why you play tennis with a baseball bat because you thought it gave you a plus 15 strength attribute boa you ugly ",
+"you got holograms of yo deads in yo bathroom because you like to remember yo long lost relatives when you take doovkies boa",
+"that's why you banned from the spice section in the grocery store cuz you be snorting all the peppers to achieve euphoric feelings boa you nasty",
+"yo grandmother is built like steve from minecraft the way she be mining entire trees in one swing boa shut up",
+"that's why a wood pecker plucked all the hair off yo head left lol you going to school bald as hell boa",
+"yo mother grounded you because you put yo bed sheets around yo 50 inch 4K samsung TV boa you nasty as hell lol stop talking",
+"you walked into a chinese resturant and the cashier politely yelled \"GODZILLA!!!\" in all caps boa you nasty",
+"you was cutting yo toe nails and you was on the last toe and yo clippers broke cuz yo toe nails got minecraft enchantments on it boa",
+"you shot up yo school with a nerf watergun because the lunch lady didn't put pepporonis on yo pizza boa you obese as hell",
+"you answered a on every question on yo sat tests bc you thought you was finna get an a and instead got a 400 outta 1600 boa you dumb as hell",
+"shut up you look like kenvzo balla and kay flocvk popped out the cut and started smacking your forehead with broomsticks and chanclas boa",
+"shut up the only physical confrontations youve ever been in are when you started fighting elementary kids in bitlife with godmode on boa",
+"what boa, that's why you slumped as hell. you tried to OvD on caffiene and you still ended up falling asleep boa you nasty as hell.",
+"what boa i caught your grandfather bingewatching packgod videos because you thought packgod was a professional adult actress boa",
+"huh boa, that's why you built like Charvlie Brovwn's 1 hair on his forehead boa you nasty as hell",
+"what boa, you look like you peform seances for Lil Peevp at 3 AM in the morning boy you nasty as hell",
+"hushmode boa why you silent? thats why i caught you trying to play Mario Kart in the freezer while blindfolded boa you nasty as hell",
+},
+["long"] = {
+"that's why you built like Latias & Latios from Pokemon, fat bwiotch. that's why you are the best catfisher in the world, you be abusing illusion/psychic movesets boa",
+"nah bro you thought google chrome was the new fortnite island boa better not be talking you built like a fake spawn get yo google chrome fake chromosones ouuta my face boa",
+"what boy, everytime you start up your PC you need to open up Process Hacker because you're afraid that the NSA would hack into your ROBLOX account to steal all your robvux boa",
+"you are so fat that whenever you saw a picture of yourself, you would edit the photo, press Ctrl + Alt + Delete, and 50% of your bodyfat would be instantly gone boa you bout fat as hell",
+"you are an MLG Godfather boy you nasty as hell, you shot someone with a nerf gun & they died instantly from head trauma boa you nasty as hell",
+"you are the hardest person in your local block, whenever you get into gang wars you don't even use straps, you use a Minecraft bow & arrow to run at yo opps boa",
+"shut up boa i caught you sucking a tape worm out of your moms orifices while creating nerf super soaker sound profiles boa you nasty as hell",
+"nope boa that's why you be pushing yo glasses down to yo nose like them librarians when they get asked a serious intellectual philiosophical question boa",
+"huh what boa the top of your head built like an iphone notch boa. naw fr tell me why your head got a dot in the middle of your eye like the iphone 14 camera hole like you was lil uvzi vervt boa",
+"yo moms put you on punishment because you responded to her text in all caps with an exclamation mark at the end like you reciting a shakesphere script boa",
+"shut up boa you furious as hell because you can't even download exploits in your family PC. lol caught you trying to pretend that JJSploit is anti-malware software boa",
+"sthu you live in an Undertale fantasy boa i caught you grabbing a minecraft stick & fencing yo auntie with it because you thought he was a monster boa. thought u was finna up yo LV boa LOL",
+"huh? lol shut up boa i caught you trying to make a pentvagram trying to summon BloxWatch at midnight boy, and that ish didn't even work boa quit playin",
+"what boa, your grandmother is devious as hell lol i caught her using an ouivji board while roleplaying as Ken Kanivff so she could prankcall her sleep paralysis demons boa",
+"huh? that's why you built like an infinite yield in real life boy. you are a real life glitch in the system, wit yo 'ol Matrix body built ahh",
+"what boa? you tried to deadlift a random stick off the ground and you ended up snapping your spinal cord in half boa you bout weak and nasty as hell",
+"that was garbage as hell. you can't even roast lol quit playin whenever you hear the word roasting, you start thinking of rotisserie chicken boa you obese as hell",
+"what boa? that was garbage as hell boa lol tell me why every 3 days you wrap yourself in blankets pretending you a cocoon so you can quote, \"come back as a better person,\" boa you weird LOLOL",
+"you are the most manipulative person ever boa. you fooled your grandmother into buying you an extra 400 V-Bucks in forvtnite boa you are a currency goblin boa",
+"you are a skincare addict, that's why you built like a porcelain doll. whenever light hits your skin cells, they just refract the light around wit yo chrome-tone forehead built ahh",
+"shut up your personalized indian tech support scammer traced yo IvP because he heard you taking a number 2 using a satellite radio boa you stoopid as hell",
+"huh boa shut up that's why yo teacher stopped you from finishing yo english pop quiz cuz you was answering all the questions in egyptian hieroglyphics quit playin wimme",
+"onme tell me why you was on freaky eaters because you was addicted to eating barnacles and expired curry boa you stupid as hell boy on my kids im cooking the hell outta you",
+"huh boa i caught you juggling geforce graphic cards when you got transported to another dimension and mickey mouse was there to slap you with an rtx 3080 boa",
+"you are a notorious neckbeard boa the people at GeekSquad call you the Best Buy Houvdini because they caught you stuffing a full ASUS ROG Laptop in your meatflabs boa you're obese as hell",
+"huh????? what boa the Minecraft terrain generation is actually based off of your skin texture because you be scaly and wrinkly as a, wit yo amphibian built ahh",
+"damn boa yo nasty ahh built like a whole endermen, whenever you get mad you teleport to random places boa. caught lil folks accidentally warping to alternate realities creating amnesia rifts LOL",
+"lol huh? that's why I caught you german suplexing your DELL monitor because it showed up as 61 hertz instead of 60 hertz boa, that's why you are an OCD fanatic weirdo boa stop",
+"what boy? i caught you trying to delete System32 in your pc so you could save up more space on your pc boa you are tech illiterate lol quit playing or else ima smack da hell out chu boa",
+"shut up you put some whipped cream around your chest, did 14 push ups, spun around 3 times, and did the devils tango on recording for 15 bits boa you nasty as hell",
+"you went to subway talking about some \"Can I get half off the top with a light taper\", ugly ahh boa, then Jared from the commercial got a foot-long sub & smacked you with it boa",
+"you can't even go tap-dancing without causing earthquakes boa. when you hit the ground, you hit the ground so hard that there was a 9.4 degree earthquake in New Zealanxd boa",
+"shut up boa i caught you trying to make a TikvTok beind an aborvtivon center after your mom aborvvtved the kid that i inserted in her 9 months ago boa",
+"tell me why you look like you was in the Vietnam War with a marshmellow gun. You were like \"CAPTAIN, INCOMING\", then you got 360 no-scoped by a dude with a VVS rocket launcher boa",
+"what boa, you're the stupidest person I've ever known boa. i caught you trying to use a diamond tester on your braces thinking yo tester was gonna light up boa",
+"you get a 3 second euphoric rush everytime you type something out on your keyboard. whenever lil folks sighs in pleasvure, yo ahh be sounding like the SCP-682 breach sound effect boa",
+"shut up that's why your grandmother is a literal downie lol i caught here trying to communicate with a power plug for 5 hours like she was nikovla tesvla boa she nasty as hell",
+"shut up you are an infamous skid boa. i caught you trying to post a localhost IvP on da bin claiming you were the best hacker of all time boa, and you ended up on the hall of auvtisvm boa",
+"shut up tell me why you and your sister were bapitized in a fishtank in PetsSmart boa you nasty as hell and thats why you look like Bruvce Lvee spinkicked you in the jaw boa double chin built ahh",
+"shut up that's why yo great grandmother was practicing parkour boa she had a pogo stick and started hopping from chimney to chimney like she was santa boa stop playin wit me",
+"nope boa that's why you opened OBS studio and yo mom walked in and shut down yo computer because there was a grain of rice in her takis boa you ugly as hell",
+"shut up boa yo bus driver got sick of you orally ingesting smarties at the back of the bus so he caught you with a black & white 1900s vintagefilm camera and got you suspended boa",
+"hell naw that was unfunny boa tell me why you look like you got violated by a radioactive doovkie spitting cow when you overtalked it with the premium indian scammer headset boa shut up",
+"shut up that's why i caught you at GameStop trying to do Milves Moralves Spiderman poses for some bus tokens and some vitamin capsules boa you nasty as hell",
+"huh? shut up boa you stuck your tongue between your keyboard keys to lick all the breadcrumbs out and your front tooth accidenally got dislodged boa you nasty as hell",
+"nope boa tell me why whenever your mom quvevevfs every night, her pmussy sounds be sounding like Chievf Keevf adlibs combined with covmethazivne beats boa shut up",
+"you are a diabolical disvney movie villain boa tell me why i caught you eating snails and slug residue in your school bathroom boa you bout obese and fat as hell boa",
+"shut up you got hammed by teevjayx6 and punchvmade dev for 10 thousand V-Bucks cause you couldn't beat Ninja in an intense build battle boa",
+"shut up boa you bout weird as hell tell me why your auntie goes to the water park just to throw subway sandwiches at random pedestrians for a serotonin rush boa",
+"shut up that's why yo mother is a certified lisdexamfetamine demon lol she be having spiritual conversations with Google Translator boa you bout ugly as hell boa",
+"shut up that's why you got picked to be the murvderer in Mad Murderer on roblox and you didn't kill anyone because you a Christian and your action are \"judged by God\" boa you ugly as hell",
+"that's why you got roasted by Leafy and you turned into a reptilian overlord and you planned a secret planetary attack on the human race but you got suddenly german suplexed by God boa shut up",
+"tell me why you was playing slitvher.io and got double-crossed by someone named \"WeenieHutJrsILoveLativnaWomen\" boa you ugly as hell you tried to commit suivcide over 2d pixels boa",
+"shut up that's why yo phone died in chemistry class boy and you tried to charge it with a professional 5-pin USB MIDI cable and it made yo phone get frost bite boa",
+"you got a blue summer sky scented premium yankee candle sitting on yo night stand boa because the smell helps you have lucid dreams & astral projections boa you're eccentric as hell boa",
+"shut up that's why you had to buy a Clear Point Elite 0.7 millimeter mechanical pencil starter kit because yo best friend stole yo number 2 pencil during yo finals exams boa",
+"shut yo ugly ahh up boa you got a 13 foot long lava lamp just sitting in the middle of yo room boa and yo ass be using it as a pole to practice your obscene dance moves boa",
+"you are the ultimate catvfish in the face of planet earth boa tell me why you you catvfish pedestrians on poptropica nd growtopia boa stop playin wit me else ill knock da hell out yo ugly ahh",
+"you lost a championship arm wrestling match to Gabrviel Iglevsias and he ate 3 tacos after the battle to regain his strength while doing nortenas with yo grandmother boa",
+"shut up i caught yoy selling real life rotten flesh from minecraft on the dark web you nasty as hell boa im on yo chrome im on yo dome im on yo zone boa you built like a chinese acorn LOL",
+"boy i caught yo ass tryna do bachatas wit yogi bear and lil folks started to judo throw you across the room because you ingested flintstone gummies beforehead boa",
+"shut up i caught you stealing honey from yo local beekeeper's bee nests and then yo ahh got tackled down by the berestein bears boa stop playin wit me",
+"yo moms be eating drywall boa she finna pull up to bath and body works and start drinking the shampoo and conditioner and talking bout some having a hyperadrenaline rush boa shut up",
+"sthu boa you be bingedrinking all the redvbull in your kitchen bc yo ahh thought you was finna obtain some wings so you could start flyhacking and scaffolding like you was in minecraft irl boa",
+"shut up you played airsoft for the first time and started running into walls boa you was l-l-l-l-l-l-lagging in the back boa you started hitting the electro shuffle on yo elbows LOL",
+"shut up you pulled up to the hood and started throwing up the naruto shadow clone jitsu and got beamed in the back of the head with a moissanite-covered nerf modified draco boa",
+"shut up you built like peter griffin's cousin boa you was in class picking ya belly button lint when the faze clan sent you an email offering you to come to the faze house and lick their keycaps boa",
+"shut up boa tell me why i caught you trying to have a deep intellectual conversation with your grandfather's dated samsung smart fridge while intimate jazz music was playing in da background boa",
+"i caught you applying for the gerber life afordable grow up plan for just pennies a day so you could save up for your 401k plan boa you bout broke as hell boa",
+"shut up pooron tell me why i caught you tryna insert skimmers in your school's vending machines so you could larp as punchvmade dev and the next day the illuminati popped out yo cut boa",
+"boa you nasty lookin sloth take yo dee dee from dexter laboratory nasty ahh giraffe built hoe bald headed ahh boa you be lookin like sumo from clarence cough drop ponytail ahh boa",
+"shut up you eat toothpicks on the daily boa grandma got gum cancer because she was unimaginably unstable from drinking 5 jars of straight pickle juice every friday boa you bout nasty as hell boa LOL",
+"hushmode boa why you silent? getcho discombobulated philosophical buvtt-flake disvabled Crivp-walking crawfish half-eaten auvtisvtic autobot doing the cha-cha slide with 17 moles in yo room boa"
+},
+["mom"] = {
+"yo momma so ugly that everyone died boa",
+"yo momma so ugly that whenever she skips a meal the stock market drops boa",
+"yo momma so fat that she be using boomerangs to tie her shoelaces",
+"yo momma so poor that she reuses toilet paper boa",
+"yo momma so poor that she flips the clothes inside out so she can reduce the money spent from washing her garments boa",
+"yo momma so fat, if she buys a fur coat, several whole species will become extinct boa",
+"yo momma so fat that her armpits built like black holes",
+"yo momma so stupid that she forgot to tell yo pops to pvull out boa",
+"yo momma so fat that dora the explorer couldnt explore her belly button boa",
+"yo momma so fat that she gets group insurance boa",
+"yo momma so fat that she disrupts the orbital motions of the planets in the solar system boa",
+"yo momma so fat that she causes earthquakes with her footsteps boa",
+"yo momma so fat that she brung a spoon to the superbowl",
+"yo momma so poor that she draws the nike logo on her shirts with sharpie to appear richer boa",
+"yo momma so fat that i couldnt even print a picture a full body pic of her",
+"yo momma so poor that she prays to teevjayx6 and listens to his music like they gospels boa",
+"yo momma so old that she once served as the editor for the old testament bible boa"
+},
+["rap"] = {
+""
+}
+}
+
+local plrs = game:GetService("Players")
+local plr = plrs.LocalPlayer
+local event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+local uis = game:GetService("UserInputService")
+
+local notif
+
+local connectedKey
+local connectedChatted
+local selected = _G.packs["med"]
+local misc = {}
+misc = {
+["order"] = 1,
+["num"] = #selected,
+["afk"] = false,
+["funcs"] = {
+["random"] = function()
+if _G.packEnabled then
+event:FireServer(selected[math.random(1, misc["num"])], "All")
+end
+end,
+["sequential"] = function()
+if _G.packEnabled then
+event:FireServer(selected[misc["order"]], "All")
+misc["order"] = (misc["order"] + 1) % misc["num"] + 1
+end
+end
+}
+}
+misc["selectedFunc"] = misc["funcs"]["random"]
+local cmds = {
+["set"] = function(args)
+local tmp = _G.packs[args[1]]
+if tmp then
+selected = tmp
+misc["num"] = #selected
+misc["order"] = 0
+print(string.format("changed set to %s.", args[1]))
+notif("Trenz Packgod script", string.format("changed set to %s.", args[1]))
+end
+end,
+["order"] = function(args)
+local tmp = misc["funcs"][args[1]]
+if tmp then
+misc["selectedFunc"] = tmp
+print(string.format("changed order to %s.", args[1]))
+notif("Trenz Packgod Script", string.format("changed order to %s.", args[1]))
+end
+end,
+["interval"] = function(args)
+local tmp = tonumber(args[1])
+if tmp then
+_G.interval = args[1]
+print(string.format("changed afk interval to %s.", args[1]))
+notif("credits to 2 wo kay", string.format("changed afk interval to %s.", args[1]))
+end
+end,
+["stop"] = function(args)
+connectedKey:Stop()
+connectedChatted:Stop()
+print("terminated twokay's pack script 2.0.")
+notif("twokay's pack script 2.0", "terminated twokay's pack script 2.0.")
+end,
+["enable"] = function(args)
+_G.packEnabled = true
+print("enabled pack script.")
+notif("twokay's pack script 2.0", "enabled pack script.")
+end,
+["disable"] = function(args)
+_G.packEnabled = false
+print("disabled pack script.")
+notif("twokay's pack script 2.0", "disabled pack script.")
+end
+}
+
+notif = function(title, desc)
+game:GetService("StarterGui"):SetCore("SendNotification", {
+Title = title,
+Text = desc
+})
+end
+local function cmd(txt)
+local split = string.split(txt, " ")
+
+local function setArgsTable()
+local second = {}
+for i = 2, #split do
+table.insert(second, split[i])
+end
+
+return second
+end
+
+if string.sub(split[1], 1, 1) == _G.packIndex then
+local one = cmds[string.sub(split[1], 2, #split[1])]
+if one then
+one(setArgsTable())
+end 
+end
+end
+local function afk()
+misc["afk"] = not misc["afk"]
+
+if misc["afk"] then
+coroutine.resume(coroutine.create(function()
+print(misc["afk"])
+while misc["afk"] do
+local count = plrs:GetChildren()
+local tmp = {"ez", "med"}
+local tmpSelected = _G.packs[tmp[math.random(1, 2)]]
+local random1 = count[math.random(1, #count)].Name
+local random2 = tmpSelected[math.random(1, #tmpSelected)]
+if random1 == plr.Name then
+random1 = "lol"
+end
+
+event:FireServer(string.format("%s %s", random1, random2), "All")
+
+wait(_G.interval)
+end
+end))
+print("enabled afk pack.")
+notif("twokay's pack script 2.0", "enabled afk pack.")
+else
+print("disabled afk pack.")
+notif("twokay's pack script 2.0", "disabled afk pack.")
+end
+end
+local function began(i, n)
+if i.KeyCode == Enum.KeyCode[_G.packKey] and not n then
+misc["selectedFunc"]()
+elseif i.KeyCode == Enum.KeyCode[_G.afkKey] and not n then
+afk()
+end
+end
+
+connectedKey = uis.InputBegan:Connect(began)
+connectedChatted = plr.Chatted:Connect(cmd)
+
+print(string.format([[
+twokay's pack script 2.0 successfully executed!
+
+current prefix: %s
+current key: %s
+total "pack" count: %i
+
+cmds:
+.set (ez/med/long/mom/rap) - changes what type of "jokes" you're going to use.
+* ez = short length
+* med = medium length
+* long = long length
+* mom = mom jokes
+* rap = rap lyrics
+* more coming soon lol
+.order (random/sequential) - changes your "packing order."
+* random - chooses a random string from set array
+* sequential - sequentially goes through each string in set array
+.disable - "disables" userinput actions
+.enable - "enables" userinput actions
+.stop - terminates the script
+
+enjoy packing your "sons," you dirty skids lol
+
+-twokay#2222 <@770482984213413978>
+]], _G.packIndex, _G.packKey, #_G.packs["ez"] + #_G.packs["med"] + #_G.packs["long"]))
+notif("twokay", "successfully executed!\ncheck console for a list of cmds.")
